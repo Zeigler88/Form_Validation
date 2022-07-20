@@ -1,0 +1,20 @@
+h1{
+    color:blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+body{
+    background-color:black;
+}
+
+.form-group{
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    padding: auto;
+}
+
+.form-group :hover{
+    color:blueviolet;
+    text-decoration: solid;
+    font-weight: bold;
+}
